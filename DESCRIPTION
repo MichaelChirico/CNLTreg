@@ -10,3 +10,4 @@ Description: Implementations of recent complex-valued wavelet shrinkage procedur
 License: GPL-2
 Depends: adlift, miscTools, nlt
 Suggests: MASS
+URL: https://github.com/nunesmatt/CNLTreg
